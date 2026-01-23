@@ -7,3 +7,4 @@ build/
 *.log
 *.tmp
 .pytest_cache/
+tmp/
